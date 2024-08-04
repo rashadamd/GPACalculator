@@ -13,8 +13,9 @@ A simple and intuitive GPA Calculator for students to quickly determine their GP
 1. **Enter Grades:** Input your grades for the predefined courses.
 2. **Calculate GPA:** Click the "Calculate" button, and your GPA will be displayed immediately.
 
-## Screenshots
-<img src="[path_to_screenshot](https://github.com/user-attachments/assets/34b6f7c6-c41e-4b56-ba81-8701d410bf87)" alt="App Screenshot" width="300" height="400"/>
+## Screenshots![Screenshot_20240804_223720](https://github.com/user-attachments/assets/0b8fa298-ee85-4f15-90dc-8e7ed2e4e09e)
+
+<img src="Screenshots![Screenshot_20240804_223720](https://github.com/user-attachments/assets/0b8fa298-ee85-4f15-90dc-8e7ed2e4e09e)" alt="App Screenshot" width="300" height="400"/>
 
 ## Installation
 
