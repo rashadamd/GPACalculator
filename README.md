@@ -14,8 +14,7 @@ A simple and intuitive GPA Calculator for students to quickly determine their GP
 2. **Calculate GPA:** Click the "Calculate" button, and your GPA will be displayed immediately.
 
 ## Screenshots
-![Screenshot_20240804_223720](https://github.com/user-attachments/assets/34b6f7c6-c41e-4b56-ba81-8701d410bf87)
-
+<img src="[path_to_screenshot](https://github.com/user-attachments/assets/34b6f7c6-c41e-4b56-ba81-8701d410bf87)" alt="App Screenshot" width="300" height="400"/>
 
 ## Installation
 
