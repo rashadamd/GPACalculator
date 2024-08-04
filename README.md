@@ -15,7 +15,7 @@ A simple and intuitive GPA Calculator for students to quickly determine their GP
 
 ## Screenshots![Screenshot_20240804_223720](https://github.com/user-attachments/assets/0b8fa298-ee85-4f15-90dc-8e7ed2e4e09e)
 
-<img src="Screenshots![Screenshot_20240804_223720](https://github.com/user-attachments/assets/0b8fa298-ee85-4f15-90dc-8e7ed2e4e09e)" alt="App Screenshot" width="300" height="400"/>
+<img src="Screenshots![Screenshot_20240804_223720](https://github.com/user-attachments/assets/0b8fa298-ee85-4f15-90dc-8e7ed2e4e09e)" alt="App Screenshot" width="60" height="80"/>
 
 ## Installation
 
